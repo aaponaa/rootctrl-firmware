@@ -1,7 +1,7 @@
 {
   "version": "v1.0.4",
   "url": "https://github.com/aaponaa/rootctrl-firmware/releases/download/v1.0.4/firmware.bin",
-  "sha256": "0f5a7eb2ab35e307f581a6ba443b8409591a450cac51b0bf5f2f604c4cf9ad1f",
+  "sha256": "aa52ba9e7622a12ee45e2c516d3a8d166561e55e7582b19efa0b33fe72d8d7a2",
   "size": 1217696,
-  "notes": "Test release for OTA pull."
+  "notes": "Test release for OTA pull (version stamping fixed)."
 }
